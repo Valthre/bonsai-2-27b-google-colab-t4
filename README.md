@@ -1,5 +1,6 @@
 # Bonsai 2 27B on Free Google Colab (Tesla T4)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Valthre/bonsai-2-27b-google-colab-t4/blob/main/bonsai_2_27b_colab_t4_optimized_EN-US.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Model](https://img.shields.io/badge/Model-Bonsai--2--27B--PTQ1__0-blueviolet)](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf)
 [![Hardware](https://img.shields.io/badge/GPU-Tesla%20T4%20(15GB)-green)](https://www.nvidia.com/en-us/data-center/tesla-t4/)
@@ -51,7 +52,7 @@ This repository provides an automated, crash-proof pipeline specifically enginee
 ### 1. Launch in Google Colab
 Click the badge below to open the notebook in Colab:
 
-[![Open In Colab](https://colab.research.google.com/github/Valthre/bonsai-2-27b-google-colab-t4/blob/main/bonsai_2_27b_colab_t4_optimized_EN-US.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Valthre/bonsai-2-27b-google-colab-t4/blob/main/bonsai_2_27b_colab_t4_optimized_EN-US.ipynb)
 
 *Ensure your runtime is configured to use a GPU: `Runtime > Change runtime type > T4 GPU`.*
 

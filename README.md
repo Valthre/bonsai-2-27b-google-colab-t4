@@ -51,7 +51,7 @@ This repository provides an automated, crash-proof pipeline specifically enginee
 ### 1. Launch in Google Colab
 Click the badge below to open the notebook in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Valthre/bonsai_2_27b_colab_t4_optimized_EN-US.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/Valthre/bonsai-2-27b-google-colab-t4/blob/main/bonsai_2_27b_colab_t4_optimized_EN-US.ipynb)
 
 *Ensure your runtime is configured to use a GPU: `Runtime > Change runtime type > T4 GPU`.*
 

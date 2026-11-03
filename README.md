@@ -10,6 +10,12 @@ A production-grade, zero-OOM Google Colab pipeline to run **PrismML's Ternary Bo
 
 ---
 
+**🇺🇸 English Version:**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Valthre/bonsai-2-27b-google-colab-t4/blob/main/bonsai_2_27b_colab_t4_optimized_EN-US.ipynb)
+
+**🇧🇷 Versão em Português:**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Valthre/bonsai-2-27b-google-colab-t4/blob/main/bonsai_2_27b_colab_t4_otimizado_PT-BR.ipynb)
+
 ## Overview
 
 Running 27B-class language models on budget hardware has traditionally been constrained by VRAM limitations (requiring >54 GB in FP16 or >17 GB in 4-bit quantizations). 
